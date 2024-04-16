@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fb0ac563.css",
+    "main.js": "/static/js/main.c2133c2d.js",
+    "static/media/blood-cells.webp": "/static/media/blood-cells.d6c409e3a03b351d62c8.webp",
+    "static/media/red-blood-cells-2.jpg": "/static/media/red-blood-cells-2.b529ede177894d577806.jpg",
+    "index.html": "/index.html",
+    "main.fb0ac563.css.map": "/static/css/main.fb0ac563.css.map",
+    "main.c2133c2d.js.map": "/static/js/main.c2133c2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb0ac563.css",
+    "static/js/main.c2133c2d.js"
+  ]
+}
